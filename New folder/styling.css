@@ -1,0 +1,35 @@
+body
+{
+  background-color: black;
+}
+#gambartop
+{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+
+}
+section
+{
+  margin: 0 auto;
+    margin-top: 30px;
+    width: 80%;
+    background-color: white;
+    padding: 40px;
+}
+div
+{
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+}
+p
+{
+    font-family: "Comic Sans MS",cursive,sans-serif;
+}
+#dietjpg{
+    padding-left: 50:
+}
+h1
+{
+  font-family: "Impact",Charcoal,sans-serif;
+}
